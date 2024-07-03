@@ -17,5 +17,6 @@ public class task4_4 {
         }
         SimpleDateFormat SDF1= new SimpleDateFormat("yyyy-MM-dd");
         System.out.println(SDF1.format(date));
+
     }
 }
